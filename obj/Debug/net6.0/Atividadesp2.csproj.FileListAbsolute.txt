@@ -1,0 +1,15 @@
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\bin\Debug\net6.0\Atividadesp2.exe
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\bin\Debug\net6.0\Atividadesp2.deps.json
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\bin\Debug\net6.0\Atividadesp2.runtimeconfig.json
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\bin\Debug\net6.0\Atividadesp2.dll
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\bin\Debug\net6.0\Atividadesp2.pdb
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\obj\Debug\net6.0\Atividadesp2.csproj.AssemblyReference.cache
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\obj\Debug\net6.0\Atividadesp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\obj\Debug\net6.0\Atividadesp2.AssemblyInfoInputs.cache
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\obj\Debug\net6.0\Atividadesp2.AssemblyInfo.cs
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\obj\Debug\net6.0\Atividadesp2.csproj.CoreCompileInputs.cache
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\obj\Debug\net6.0\Atividadesp2.dll
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\obj\Debug\net6.0\refint\Atividadesp2.dll
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\obj\Debug\net6.0\Atividadesp2.pdb
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\obj\Debug\net6.0\Atividadesp2.genruntimeconfig.cache
+C:\Users\Maria Auxiliadora\Documents\ProjetoSenai2\Atividadesp2\obj\Debug\net6.0\ref\Atividadesp2.dll
